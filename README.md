@@ -40,7 +40,8 @@ Durante o projeto, tentei realizar três tipos de simulações:
 
 - Wordlists usadas: listas pequenas de exemplo, criadas manualmente.  
 - Comando principal utilizado (exemplo):
-  ``` medusa -h 192.168.56.101 -U users.txt -P pass.txt -M ftp -t 6
+  ```bash
+   medusa -h 192.168.56.101 -U users.txt -P pass.txt -M ftp -t 6
   
 
 ## Observação
